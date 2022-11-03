@@ -244,7 +244,7 @@ Ba'zan darslar sessiyada bo'lmaganligi sababli siz bir necha oy kutishingizga to
 
 ## Suhbat jarayoni va intervyuga tayyorgarlik
 
-- [ ] [2021 yilda injinerlik suhbatidan qanday o'tish mumkin?](https://davidbyttow.medium.com/how-to-pass-the-engineering-interview-in-2021-45f1b389a1)
+- [x] [2021 yilda injinerlik suhbatidan qanday o'tish mumkin?](https://davidbyttow.medium.com/how-to-pass-the-engineering-interview-in-2021-45f1b389a1)
 - [ ] [Doskada kodlash(Whiteboarding)](https://medium.com/@dpup/whiteboarding-4df873dbba2e#.hf6jn45g1)
 - [ ] [Demystifying Tech Recruiting](https://www.youtube.com/watch?v=N233T0epWTs)
 - [ ] Qanday qilib "Big 4" kompaniyalariga ishga kirish mumkin:
